@@ -1,7 +1,51 @@
 img{
     border-radius: 85%;
+    padding-left: 20px;
+}
+body{
+    background-color: powderblue;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    height: 5px;
+    color:grey;
+    width: 100px;
+}
+img{
+    border-radius: 50px;
+}
+.main{
+    padding-left: 20px;
 }
 #main-footer{
     text-align: center;
     font-size: 18px;
+}
+.name{
+    background-color: rgb(52, 224, 184);
+}
+.education-details{
+    background-color: bisque;
+    margin: 15px;
+}
+.technical{
+    background-color: bisque;
+    padding-left: 13px;
+}
+.internship{
+    background-color: bisque;
+    padding-left: 13px;
+}
+.project{
+    background-color: bisque;
+}
+.technical{
+    background-color: bisque;
+}
+.certificate{
+    background-color: bisque;
+}
+.extra{
+    background-color: bisque;
 }
